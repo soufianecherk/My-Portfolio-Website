@@ -1,4 +1,4 @@
-![Capture d’écran (314)](https://github.com/user-attachments/assets/076e5833-5226-4055-89a2-36c84c103047)# My Portfolio Website
+# My Portfolio Website
 
 Welcome to the repository of my personal portfolio website! This project showcases my professional journey, skills, and projects in a modern and visually appealing manner.
 
