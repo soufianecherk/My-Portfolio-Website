@@ -330,9 +330,10 @@ section {
   margin-left: -80px;
 }
 
-/* EXPERIENCE SECTION */
+/* Skills SECTION */
 
 #experience {
+  margin-top: 5rem;
   position: relative;
 }
 
@@ -345,17 +346,18 @@ section {
 
 .experience-details-container {
   display: flex;
-  justify-content: center;
-  flex-direction: column;
+  margin-top: 1rem;
+  flex-direction: column; /* Stack child containers vertically */
+  gap: 1rem; /* Add spacing between the containers */
+  align-items: flex-start; /* Align child containers to the left */
 }
 
 .article-container {
   display: flex;
   text-align: initial;
-  flex-wrap: wrap;
   flex-direction: row;
-  gap: 2.5rem;
-  justify-content: space-around;
+  gap: 2rem;
+  justify-content: space-around; /* Keep articles spaced evenly */
 }
 
 article {
@@ -372,6 +374,7 @@ article .icon {
 /* PROJECTS SECTION */
 
 #projects {
+  margin-top: 7rem;
   position: relative;
 }
 
